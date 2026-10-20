@@ -1,0 +1,29 @@
+# Keil build output and local UI/debug state
+**/Output/
+**/Objects/
+**/Listings/
+**/DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.lst
+*.axf
+*.o
+*.d
+*.crf
+*.map
+*.htm
+*.bak
+.mxproject
+
+# Desktop/editor state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log
+
+# Device/user data; font initialization files are tracked explicitly.
+sdcard/smart_remd_stat/*.jpg
+sdcard/smart_remd_stat/stat.bin

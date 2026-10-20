@@ -1,0 +1,7 @@
+# Preserve historical source encodings and bytes.
+* -text
+*.md text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

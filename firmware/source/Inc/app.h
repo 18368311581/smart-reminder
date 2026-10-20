@@ -1,0 +1,19 @@
+#ifndef __APP_H_
+#define __APP_H_
+#include "basic.h"
+#include "lcd.h"
+#include "touch.h"
+#include "ths.h"
+#include "norflash.h"
+#include "sram.h"
+#include "camera.h"
+#include "sdcard.h"
+#include "ertc.h"
+#include "rng.h"
+#include "malloc_sram.h"
+#include "ff.h"
+#include "chinese_on_lcd.h"
+#include "jpeg_on_lcd.h"
+#include "photo.h"
+#include "input.h"
+#endif
